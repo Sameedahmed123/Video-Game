@@ -25,4 +25,5 @@ Fields include:
 
 - Global_Sales - Total worldwide sales
 
-In this Project I have tried to visualize using different plots ( Boxplot, PieChart, Barplot, Kde )
+I am going analyze and Visualize Video game sales in different regions of the World and which publisher or platform perform great in last few decades.
+Some of the visualizing techniques I am going to use are boxplot, bar, Pie-Chart, Kde, Scatterplot, lineplot.

@@ -1,6 +1,6 @@
 # Background Information
 
-- A **Video game** is an electronic game that involves interaction with a user interface or input device, such as a joystick, controller, keyboard, or motion sensing devices, to generate visual feedback on a two- or three-dimensional video display device such as a TV set, monitor, touchscreen, or virtual reality headset. According to the market research firm SuperData, as of May 2015, the global games market was worth US$74.2 billion. By region, **North America** accounted for $23.6 billion, **Asia** for $23.1 billion, **Europe** for $22.1 billion and **South America** for $4.5 billion. **Sales** of different types of games vary widely between countries due to local preferences.
+A **Video game** is an electronic game that involves interaction with a user interface or input device, such as a joystick, controller, keyboard, or motion sensing devices, to generate visual feedback on a two- or three-dimensional video display device such as a TV set, monitor, touchscreen, or virtual reality headset. According to the market research firm SuperData, as of May 2015, the global games market was worth US$74.2 billion. By region, **North America** accounted for $23.6 billion, **Asia** for $23.1 billion, **Europe** for $22.1 billion and **South America** for $4.5 billion. **Sales** of different types of games vary widely between countries due to local preferences.
 
 
 # Video Game Sale - Project Overview

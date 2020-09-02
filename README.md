@@ -32,7 +32,7 @@ Fields include:
 - **Other_Sales** - Sales in the rest of the world (in millions)
 
 - **Global_Sales** - Total worldwide sales
-<details>
+</details>
 
 I am going analyze and Visualize Video game sales in different regions of the World and which publisher or platform perform great in last few decades.
 Some of the visualizing techniques I am going to use are boxplot, bar, Pie-Chart, Kde, Scatterplot, lineplot.
